@@ -26,21 +26,21 @@ Só desafios, café e evolução. 🔥
 
 | Desafio | Habilidade Desbloqueada |
 |----------|--------------------------|
-🧮 Fatores Primos | Lógica matemática e otimização  |
-🔁 Palíndromos | Manipulação de strings  |
-🔤 Ordenação | Estruturas e algoritmos  |
-🔎 Índices | Busca e análise de dados  |
-⏳ Tempo | Controle e interação  |
-📚 Persistência | Arquivos e JSON  |
-⏰ Agendamento | Automação  |
-🎯 Jogo de Forca | Projeto completo |
-🎲 Simulação | Probabilidade  |
-📖 Contagem | Processamento de texto  |
-🔐 Senhas | Segurança básica  |
-📊 CSV | Manipulação de dados  |
-🧩 Sudoku | Algoritmos avançados | 
-📦 ZIP | Automação de arquivos  |
-🌐 Downloads | Integração web  |
+| 🧮 Fatores Primos | Lógica matemática e otimização  |
+| 🔁 Palíndromos | Manipulação de strings  |
+| 🔤 Ordenação | Estruturas e algoritmos  |
+| 🔎 Índices | Busca e análise de dados  |
+| ⏳ Tempo | Controle e interação  |
+| 📚 Persistência | Arquivos e JSON  |
+| ⏰ Agendamento | Automação  |
+| 🎯 Jogo de Forca | Projeto completo |
+| 🎲 Simulação | Probabilidade  |
+| 📖 Contagem | Processamento de texto  |
+| 🔐 Senhas | Segurança básica  |
+| 📊 CSV | Manipulação de dados  |
+| 🧩 Sudoku | Algoritmos avançados | 
+| 📦 ZIP | Automação de arquivos  |
+| 🌐 Downloads | Integração web  |
 
 ---
 
@@ -136,3 +136,21 @@ Deixe uma estrela ⭐
 ```
 🚀 “Hoje scripts. Amanhã sistemas. Depois… o mundo.”
 ```
+
+
+
+## 🚀 Laboratório Python — Missão Padawan
+
+Treinamento prático com desafios reais para evoluir do zero ao nível profissional.
+
+👉 **Leia o laboratório completo:**  
+https://eljefemidnightlunch.blogspot.com/2026/03/laboratorio-python-missao-padawan.html
+
+## 🚀 Laboratório Python — Missão Padawan
+
+Treinamento prático com desafios reais para evoluir do zero ao nível profissional.
+
+👉 **Leia o laboratório completo:**  
+https://eljefemidnightlunch.blogspot.com/2026/03/laboratorio-python-missao-padawan.html
+👉 **[🚀 Acessar o LABORATÓRIO PYTHON — Missão Padawan](https://eljefemidnightlunch.blogspot.com/2026/03/laboratorio-python-missao-padawan.html)**
+
