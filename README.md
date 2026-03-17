@@ -49,8 +49,8 @@ Só desafios, café e evolução. 🔥
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/laboratorio-python-padawan.git
-cd laboratorio-python-padawan
+git clone [https://github.com/VagnerBellacosa/LaboratorioPython](https://github.com/VagnerBellacosa/LaboratorioPython)
+cd LaboratorioPython
 ```
 
 Execute qualquer missão:
