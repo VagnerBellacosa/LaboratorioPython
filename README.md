@@ -1,0 +1,2 @@
+# LaboratorioPython
+Versao expandida
